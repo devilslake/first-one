@@ -1,0 +1,55 @@
+From: billing@mail.efax.com
+Sent: Wednesday, October 31, 2007 9:21 PM
+To: awhite@da-lite.com
+Subject: eFax billing statement for 10/31/2007
+
+
+To:	Andre White
+	250 Ridge Ave
+	2a
+	Evanston, IL  60202
+	US	
+
+From:	eFax.com
+	6922 Hollywood Boulevard
+	Suite 500
+	Hollywood, CA 90028
+
+Billing Summary
+----------------
+Previous Balance:                 $0.00   
+Current Fees:                    $16.95   
+Adjustments:                      $0.00   
+Payments Received:               $16.95 CR
+BALANCE DUE:                      $0.00   
+
+Bill Number:                   27562530
+Bill Date:                   2007-10-31
+Due Date:                    2007-11-30
+
+Your account is current.  Do not send payment.
+
+CURRENT FEES:
+
+Date        Service    Description                                       Amount
+-------------------------------------------------------------------------------
+2007-10-29  eFax       eFax Number: 18475566116 (Oct 30 - Nov 29)              $16.95   
+            -------------------------------------------------------------------
+                       Monthly Subscription Fee                          $16.95   
+
+PAYMENT RECEIVED:
+
+Date        Service    Description                                       Amount
+-------------------------------------------------------------------------------
+2007-10-30  eFax       Charge to Credit Card                                   $16.95 CR
+
+
+If you have any questions about your invoice, please contact Customer Service.  To see a detailed log of usage activity, please log in at http://www.efax.com/login.
+
+Thank you for your business.
+
+Best Regards,
+eFax.com Customer Service	
+Online Help: http://www.efax.com/help/
+Email: help@mail.efax.com
+Telephone: 323-817-3205 (US) or 353 1 656 4910 (EU)
